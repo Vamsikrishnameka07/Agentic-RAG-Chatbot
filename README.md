@@ -70,5 +70,3 @@ python app.py
 - TXT / MD (plain text)
 - PPTX (presentation)
 
-## 💡 Credits
-Built by SV Rajesh using LangChain, Flask, OpenAI 🛸
